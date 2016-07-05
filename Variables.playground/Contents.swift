@@ -1,12 +1,12 @@
 var favoriteCharacter = "Jon Snow"
 print(favoriteCharacter)
 
-favoriteCharacter = "Tyrion Lannister"
+favoriteCharacter = "Woof"
 print(favoriteCharacter)
 
-favoriteCharacter = 76
+//favoriteCharacter = 76
 
 let ultimateFavoriteCharacter = "Arya Stark"
 print(ultimateFavoriteCharacter)
 
-ultimateFavoriteCharacter = "Daenerys Targaryen"
+//ultimateFavoriteCharacter = "Daenerys Targaryen"
